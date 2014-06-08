@@ -1,2 +1,2 @@
-class CrunchBase
+class Crunchbase
 end
