@@ -1,2 +1,0 @@
-class Crunchbase
-end

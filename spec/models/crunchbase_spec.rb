@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Crunchbase do
+describe CrunchbaseApi do
 
   describe ".product" do
   end
