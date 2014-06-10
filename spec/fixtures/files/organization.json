@@ -1,0 +1,463 @@
+{
+ "metadata": {
+  "version": 2,
+  "www_path_prefix": "http://www.crunchbase.com/",
+  "api_path_prefix": "http://api.crunchbase.com/v/2/",
+  "image_path_prefix": "http://images.crunchbase.com/"
+ },
+ "data": {
+  "uuid": "2834cfc2fb6d185ae84459086575e5b6",
+  "type": "Organization",
+  "properties": {
+   "role_company": true,
+   "email_address": "pr@tradeshift.com",
+   "description": "As a platform for all your business interactions, Tradeshift helps companies run more efficiently, harnessing the power of their network to create new value from old processes like invoicing, payments and workflow.\r\n\r\nFor smaller companies, a free account with apps like e-invoicing can become a route to getting paid faster or even open doors like dynamic discounting. Meanwhile, Tradeshift Apps allow them to securely link in other key processes like online accounting in seconds.\r\n\r\nFor enterprises that work with tens of thousands of companies like this, they find themselves already connected to partners of all sizes on a single, global, 100% electronic platform.\r\n\r\nTradeshift is the first step toward a smarter, better, network-powered business.\r\n\r\nTradeshift was founded in 2009 and launched in 2010, with the goal to change how business is done. Headquartered in San Francisco, Tradeshift has offices in Copenhagen, London, and Amsterdam. Tradeshift employs 70 staff across 18 different nationalities",
+   "short_description": "Tradeshift is a platform that helps companies make business interactions more efficient.",
+   "founded_on_day": 1,
+   "founded_on_month": 7,
+   "founded_on_year": 2009,
+   "founded_on": "2009-07-01",
+   "founded_on_trust_code": 7,
+   "permalink": "tradeshift",
+   "primary_role": "company",
+   "is_closed": false,
+   "closed_on_trust_code": 0,
+   "homepage_url": "http://tradeshift.com",
+   "name": "Tradeshift",
+   "closed_on_day": null,
+   "closed_on_month": null,
+   "closed_on_year": null,
+   "closed_on": null,
+   "created_at": 1402401550,
+   "updated_at": 1402401551
+  },
+  "relationships": {
+   "current_team": {
+    "paging": {
+     "total_items": 10,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/current_team",
+     "sort_order": "custom"
+    },
+    "items": [
+     {
+      "first_name": "Christian",
+      "last_name": "Lanng",
+      "title": "CEO & Co-founder",
+      "started_on": "2009-07-01",
+      "path": "person/christian-lanng",
+      "created_at": 1267106765,
+      "updated_at": 1397989125
+     },
+     {
+      "first_name": "Mikkel",
+      "last_name": "Hippe Brun",
+      "title": "CSO & Co-founder",
+      "started_on": "2009-07-01",
+      "path": "person/mikkel-hippe-brun",
+      "created_at": 1267106804,
+      "updated_at": 1397989125
+     },
+     {
+      "first_name": "Gert",
+      "last_name": "Sylvest",
+      "title": "CTO & Co-founder",
+      "started_on": "2009-07-01",
+      "path": "person/gert-sylvest",
+      "created_at": 1398793484,
+      "updated_at": 1398793484
+     },
+     {
+      "first_name": "Christian",
+      "last_name": "Hjorth",
+      "title": "CCO",
+      "started_on": "2010-07-01",
+      "path": "person/christian-hjorth",
+      "created_at": 1298160373,
+      "updated_at": 1397989180
+     },
+     {
+      "first_name": "Patrick",
+      "last_name": "Svenburg",
+      "title": "VP, Strategic Business Development",
+      "started_on": "2013-02-01",
+      "path": "person/patrick-svenburg",
+      "created_at": 1265064771,
+      "updated_at": 1397988988
+     },
+     {
+      "first_name": "Mihir",
+      "last_name": "Nanavati",
+      "title": "VP of product management",
+      "started_on": null,
+      "path": "person/mihir-nanavati",
+      "created_at": 1398793638,
+      "updated_at": 1398793638
+     },
+     {
+      "first_name": "Andy",
+      "last_name": "Huang",
+      "title": "VP of Global Strategy",
+      "started_on": null,
+      "path": "person/andy-huang-2",
+      "created_at": 1350684931,
+      "updated_at": 1397989491
+     },
+     {
+      "first_name": "Peter",
+      "last_name": "Van Pruissen",
+      "title": "CFO",
+      "started_on": "2013-01-01",
+      "path": "person/peter-van-pruissen",
+      "created_at": 1184921035,
+      "updated_at": 1397988937
+     }
+    ]
+   },
+   "offices": {
+    "paging": {
+     "total_items": 3,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/offices",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "name": "Tradeshift HQ",
+      "street_1": "612 Howard Street, Suite 400",
+      "street_2": null,
+      "city": "San Francisco",
+      "region": "CA",
+      "country_code": "USA",
+      "type": "Address",
+      "created_at": 1345656992,
+      "updated_at": 1397991067
+     },
+     {
+      "name": "Tradeshift (Denmark)",
+      "street_1": "Nørregade 36B, 3. floor",
+      "street_2": null,
+      "city": "Copenhagen",
+      "region": null,
+      "country_code": "DNK",
+      "type": "Address",
+      "created_at": 1286881368,
+      "updated_at": 1397992084
+     },
+     {
+      "name": "Tradeshift Networks Ltd",
+      "street_1": "37 Friars Avenue",
+      "street_2": null,
+      "city": "London",
+      "region": "CA",
+      "country_code": "GBR",
+      "type": "Address",
+      "created_at": 1286881302,
+      "updated_at": 1397992083
+     }
+    ]
+   },
+   "headquarters": {
+    "paging": {
+     "total_items": 2,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/headquarters",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "name": "Tradeshift HQ",
+      "street_1": "612 Howard Street, Suite 400",
+      "street_2": null,
+      "city": "San Francisco",
+      "region": "CA",
+      "country_code": "USA",
+      "type": "Address",
+      "created_at": 1345656992,
+      "updated_at": 1397991067
+     },
+     {
+      "name": "Tradeshift HQ",
+      "street_1": "612 Howard Street, Suite 400",
+      "street_2": null,
+      "city": "San Francisco",
+      "region": "CA",
+      "country_code": "USA",
+      "type": "Address",
+      "created_at": 1345656992,
+      "updated_at": 1397991067
+     }
+    ]
+   },
+   "funding_rounds": {
+    "paging": {
+     "total_items": 4,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/funding_rounds",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "type": "FundingRound",
+      "name": "Tradeshift Funding Round",
+      "path": "funding-round/0c9c25da4e257b253a755377612ff827",
+      "created_at": 1399637760,
+      "updated_at": 1400601050
+     },
+     {
+      "type": "FundingRound",
+      "name": "Tradeshift raises 0 in venture round",
+      "path": "funding-round/a7784ff1208000cfc7c556c2b98a2924",
+      "created_at": 1393366185,
+      "updated_at": 1400623579
+     },
+     {
+      "type": "FundingRound",
+      "name": "Tradeshift raises 17000000 in venture round",
+      "path": "funding-round/8fde58db4476e72bb5045fea776ae28b",
+      "created_at": 1319531099,
+      "updated_at": 1398009879
+     },
+     {
+      "type": "FundingRound",
+      "name": "Tradeshift raises 7000000 in unknown round",
+      "path": "funding-round/eac1592dbc6558b2300a2e4647290bd4",
+      "created_at": 1305555329,
+      "updated_at": 1398009948
+     }
+    ]
+   },
+   "categories": {
+    "paging": {
+     "total_items": 3,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/categories",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "type": "Market",
+      "name": "Cloud Computing",
+      "created_at": 1397980727,
+      "updated_at": 1397980727
+     },
+     {
+      "type": "Market",
+      "name": "Software",
+      "created_at": 1397980727,
+      "updated_at": 1397980727
+     },
+     {
+      "type": "Market",
+      "name": "Enterprise Software",
+      "created_at": 1397980726,
+      "updated_at": 1397980726
+     }
+    ]
+   },
+   "founders": {
+    "paging": {
+     "total_items": 3,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/founders",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "type": "Person",
+      "name": "Gert Sylvest",
+      "path": "person/gert-sylvest",
+      "created_at": 1398793484,
+      "updated_at": 1398793484
+     },
+     {
+      "type": "Person",
+      "name": "Mikkel Hippe Brun",
+      "path": "person/mikkel-hippe-brun",
+      "created_at": 1267106804,
+      "updated_at": 1397989125
+     },
+     {
+      "type": "Person",
+      "name": "Christian Lanng",
+      "path": "person/christian-lanng",
+      "created_at": 1267106765,
+      "updated_at": 1397989125
+     }
+    ]
+   },
+   "primary_image": {
+    "paging": {
+     "total_items": 1,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/primary_image",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "type": "ImageAsset",
+      "title": null,
+      "path": "image/upload/v1397203778/ac022ae64c92ea91796b49bcae2b0102.jpg",
+      "created_at": 1398018490,
+      "updated_at": 1398018490
+     }
+    ]
+   },
+   "images": {
+    "paging": {
+     "total_items": 4,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/images",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "type": "ImageAsset",
+      "title": null,
+      "path": "image/upload/v1402401548/ljv3hgoa8g0iieprt8gw.png",
+      "created_at": 1402401550,
+      "updated_at": 1402401550
+     },
+     {
+      "type": "ImageAsset",
+      "title": null,
+      "path": "image/upload/v1397203783/888b3dd41e6e1128a5a3c07ab81117ae.png",
+      "created_at": 1398018491,
+      "updated_at": 1398018491
+     },
+     {
+      "type": "ImageAsset",
+      "title": null,
+      "path": "image/upload/v1397203782/a013ec0dbd4aef6ba9f06a9cdf479e4f.png",
+      "created_at": 1398018490,
+      "updated_at": 1398018490
+     },
+     {
+      "type": "ImageAsset",
+      "title": null,
+      "path": "image/upload/v1397203781/c3d0b3519c7df3e28be9caca9a065ceb.jpg",
+      "created_at": 1398018490,
+      "updated_at": 1398018490
+     }
+    ]
+   },
+   "websites": {
+    "paging": {
+     "total_items": 5,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/websites",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "url": "https://www.linkedin.com/company/tradeshift",
+      "type": "WebPresence",
+      "title": "linkedin",
+      "created_at": 1401518299,
+      "updated_at": 1401518299
+     },
+     {
+      "url": "https://www.facebook.com/Tradeshift",
+      "type": "WebPresence",
+      "title": "facebook",
+      "created_at": 1401518299,
+      "updated_at": 1401518299
+     },
+     {
+      "url": "http://www.twitter.com/tradeshift",
+      "type": "WebPresence",
+      "title": "twitter",
+      "created_at": 1266784135,
+      "updated_at": 1397987621
+     },
+     {
+      "url": "http://tradeshift.com/blog/",
+      "type": "WebPresence",
+      "title": "blog",
+      "created_at": 1266784135,
+      "updated_at": 1397987621
+     },
+     {
+      "url": "http://tradeshift.com",
+      "type": "WebPresence",
+      "title": "homepage",
+      "created_at": 1266784135,
+      "updated_at": 1397987621
+     }
+    ]
+   },
+   "news": {
+    "paging": {
+     "total_items": 13,
+     "first_page_url": "http://api.crunchbase.com/v/2/organization/tradeshift/news",
+     "sort_order": "created_at DESC"
+    },
+    "items": [
+     {
+      "url": "http://techcrunch.com/2014/05/30/tradeshift-takes-over-all-the-invoicing-for-the-uks-health-service/",
+      "author": null,
+      "posted_on": "2014-05-30",
+      "type": "PressReference",
+      "title": "Tradeshift Takes Over All The Invoicing For The UK’s Health Service | TechCrunch",
+      "created_at": 1401518138,
+      "updated_at": 1401518138
+     },
+     {
+      "url": "http://techcrunch.com/2013/08/06/tradeshift-extends-its-platform-with-a-service-for-making-workflows-a-bit-less-tedious/",
+      "author": "Alex Williams",
+      "posted_on": "2013-08-06",
+      "type": "PressReference",
+      "title": "Tradeshift Extends E-Invoicing And Real-Time Marketplace Platform With Service For Making Workflows A Bit Less Tedious",
+      "created_at": 1375801220,
+      "updated_at": 2013
+     },
+     {
+      "url": "http://techcrunch.com/2013/04/16/senddr/",
+      "author": "Steve O'Hear",
+      "posted_on": "2013-04-16",
+      "type": "PressReference",
+      "title": "E-Invoicing Service Senddr Exits Beta To Give Tradeshift A Run For Its Money",
+      "created_at": 1366100415,
+      "updated_at": 2013
+     },
+     {
+      "url": "http://techcrunch.com/2013/01/25/kashflow-tradeshift/",
+      "author": "Steve O'Hear",
+      "posted_on": "2013-01-25",
+      "type": "PressReference",
+      "title": "KashFlow Adds Tradeshift Support After Being Blindsided By Intuit’s Investment In E-Invoicing Startup",
+      "created_at": 1359115219,
+      "updated_at": 2013
+     },
+     {
+      "url": "http://techcrunch.com/2013/01/23/tradeshift-intuit/",
+      "author": "Steve O'Hear",
+      "posted_on": "2013-01-23",
+      "type": "PressReference",
+      "title": "Business Interactions Platform Tradeshift Receives Strategic Investment From Intuit, Access To 5M QuickBooks Customers",
+      "created_at": 1358967669,
+      "updated_at": 2013
+     },
+     {
+      "url": "http://techcrunch.com/2012/11/15/tradeshift-lands-huge-global-client-for-its-new-cloudscan-product/",
+      "author": "Mike Butcher",
+      "posted_on": "2012-11-15",
+      "type": "PressReference",
+      "title": "Tradeshift Lands Huge Global Client For Its New CloudScan Product",
+      "created_at": 1352981598,
+      "updated_at": 2012
+     },
+     {
+      "url": "http://techcrunch.com/2012/09/04/tradeshift-lands-mitie-as-its-latest-e-invoicing-client-say-sources/",
+      "author": "Mike Butcher",
+      "posted_on": "2012-09-04",
+      "type": "PressReference",
+      "title": "Tradeshift Lands Mitie As Its Latest E-Invoicing Client Say Sources",
+      "created_at": 1346780712,
+      "updated_at": 2012
+     },
+     {
+      "url": "http://techcrunch.com/2011/10/25/e-invoicing-company-tradeshift-raises-17-million-at-137-million-valuation/",
+      "author": "Robin Wauters",
+      "posted_on": "2011-10-25",
+      "type": "PressReference",
+      "title": "E-invoicing Company Tradeshift Raises $17 Million At $137 Million Valuation",
+      "created_at": 1319531191,
+      "updated_at": 2011
+     }
+    ]
+   }
+  }
+ }
+}

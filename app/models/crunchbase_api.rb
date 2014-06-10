@@ -13,4 +13,9 @@ class CrunchbaseApi
     Product.new(response)
   end
 
+  def self.organization(identifier)
+    response = get("/organization/#{identifier}").parsed_response
+    Organization.new(response)
+  end
+
 end
