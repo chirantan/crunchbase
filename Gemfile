@@ -18,3 +18,4 @@ group :development, :test do
 end
 
 gem 'httparty'
+gem 'webmock'
