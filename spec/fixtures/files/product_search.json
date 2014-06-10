@@ -1,0 +1,583 @@
+{
+   "hits":[
+      {
+         "product":true,
+         "batch_indexed_at":1402086304084,
+         "description":"This widget allows the user to view or search for YouTube videos. It is also possible to browse through the Top Rated and Top Favorites",
+         "name":"YouTube AIR Widget",
+         "n_relationships":3,
+         "type":"Product",
+         "organization_name":"Pogopixels",
+         "url":"/product/youtube-air-widget",
+         "objectID":"6cf457d301099b9a1a95da5b940a590c",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>YouTube</em> AIR Widget",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Pogopixels",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304084,
+         "description":"YouTube Channel Link on our Links page was added to CrunchBase in 2008",
+         "name":"YouTube Channel Link on our Links page",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"adeo Media .net",
+         "url":"/product/youtube-channel-link-on-our-links-page",
+         "objectID":"f9d66e76dcb9ff4d14eef58f9e6825ab",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>YouTube</em> Channel Link on our Links page",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"adeo Media .net",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304084,
+         "description":"YouTube.com/ChannelFlip was added to CrunchBase in 2013",
+         "name":"YouTube.com/ChannelFlip",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"ChannelFlip Media",
+         "url":"/product/youtube-com-channelflip",
+         "objectID":"f632a31de4235717b4ca015cd9c1923a",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>YouTube</em>.com/ChannelFlip",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"ChannelFlip Media",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304084,
+         "description":"YouTube Channel Management was added to CrunchBase in 2012",
+         "name":"YouTube Channel Management",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"YTM",
+         "url":"/product/youtube-channel-management",
+         "objectID":"9e58208d2196e412824670490fbc1817",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>YouTube</em> Channel Management",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"YTM",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304084,
+         "description":"YouTube Celebrity Integration was added to CrunchBase in 2012",
+         "name":"YouTube Celebrity Integration",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"YTM",
+         "url":"/product/youtube-celebrity-integration",
+         "objectID":"228d894c483b3f33f5ea5e2f87d8548e",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>YouTube</em> Celebrity Integration",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"YTM",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304073,
+         "description":"Youtube Promotion was added to CrunchBase in 2014",
+         "name":"Youtube Promotion",
+         "n_relationships":0,
+         "type":"Product",
+         "url":"/product/youtube-promotion",
+         "objectID":"5c3f5033beebea623db49c6f8696e46f",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>Youtube</em> Promotion",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397240116/c686e36ec1de3af4b801210848bc8964.png",
+         "type":"Product",
+         "url":"/product/magento-youtube-video",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397240116/c686e36ec1de3af4b801210848bc8964.png",
+         "batch_indexed_at":1402086303309,
+         "product":true,
+         "description":"Would you like to create a video page to improve the interface of your Magento store? And do you find any difficulty in embedding Youtube",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397240116/c686e36ec1de3af4b801210848bc8964.png",
+         "name":"Magento Youtube Video",
+         "n_relationships":13,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397240116/c686e36ec1de3af4b801210848bc8964.png",
+         "organization_name":"Magebuzz",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397240116/c686e36ec1de3af4b801210848bc8964.png",
+         "objectID":"b3b95181c439987df9911d9b24e4b913",
+         "_highlightResult":{
+            "name":{
+               "value":"Magento <em>Youtube</em> Video",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Magebuzz",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086310730,
+         "description":"Free YouTube Uploader is the first PC desktop application to upload video to YouTube without using the original YouTube web interface.",
+         "name":"Free YouTube Uploader",
+         "n_relationships":7,
+         "type":"Product",
+         "organization_name":"DVDVideoSoft",
+         "url":"/product/free-youtube-uploader",
+         "objectID":"759a67c606b96f34909dc122c7eebb10",
+         "_highlightResult":{
+            "name":{
+               "value":"Free <em>YouTube</em> Uploader",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"DVDVideoSoft",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1399867695/hjfdqyiiyu111g0vnzq2.png",
+         "type":"Product",
+         "url":"/product/free-youtube-download",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1399867695/hjfdqyiiyu111g0vnzq2.png",
+         "batch_indexed_at":1402086316698,
+         "product":true,
+         "description":"Free YouTube Download is created to downloade YouTube videos, single videos as well as whole collections such as: - complete playlists and",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1399867695/hjfdqyiiyu111g0vnzq2.png",
+         "name":"Free Youtube Download",
+         "n_relationships":7,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1399867695/hjfdqyiiyu111g0vnzq2.png",
+         "organization_name":"DVDVideoSoft",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1399867695/hjfdqyiiyu111g0vnzq2.png",
+         "objectID":"1ea3e4929c3cfa94f148754f717809a6",
+         "_highlightResult":{
+            "name":{
+               "value":"Free <em>Youtube</em> Download",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"DVDVideoSoft",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1399871638/p7zvtjrzsnxegyxzcwlm.png",
+         "type":"Product",
+         "url":"/product/free-youtube-to-mp3-converter",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1399871638/p7zvtjrzsnxegyxzcwlm.png",
+         "batch_indexed_at":1402086316772,
+         "product":true,
+         "description":"Free YouTube to MP3 Converter downloads mp3 from all possible YouTube videos. This program combines simplicity of usage as well as advanced",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1399871638/p7zvtjrzsnxegyxzcwlm.png",
+         "name":"Free YouTube to MP3 Converter",
+         "n_relationships":6,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1399871638/p7zvtjrzsnxegyxzcwlm.png",
+         "organization_name":"DVDVideoSoft",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1399871638/p7zvtjrzsnxegyxzcwlm.png",
+         "objectID":"da78ecefb1931a040af0f8bc6254d8e3",
+         "_highlightResult":{
+            "name":{
+               "value":"Free <em>YouTube</em> to MP3 Converter",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"DVDVideoSoft",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1399870658/un466zgxegw69fjfnvvc.png",
+         "type":"Product",
+         "url":"/product/free-youtube-to-ipod-converter",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1399870658/un466zgxegw69fjfnvvc.png",
+         "batch_indexed_at":1402086316844,
+         "product":true,
+         "description":"Free YouTube to iPod Converter downloads YouTube videos to iPod, PSP, BlackBerry or mobile phones.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1399870658/un466zgxegw69fjfnvvc.png",
+         "name":"Free YouTube to iPod Converter",
+         "n_relationships":6,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1399870658/un466zgxegw69fjfnvvc.png",
+         "organization_name":"DVDVideoSoft",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1399870658/un466zgxegw69fjfnvvc.png",
+         "objectID":"6004c0d362998192d8c19f5f0818d713",
+         "_highlightResult":{
+            "name":{
+               "value":"Free <em>YouTube</em> to iPod Converter",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"DVDVideoSoft",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086310278,
+         "description":"Standard YouTube Embed Plugin for WordPress was added to CrunchBase in 2013",
+         "name":"Standard YouTube Embed Plugin for WordPress",
+         "n_relationships":3,
+         "type":"Product",
+         "organization_name":"EmbedPlus",
+         "url":"/product/standard-youtube-embed-plugin-for-wordpress",
+         "objectID":"34e2fc0b25a020ce172b5f5ce8822724",
+         "_highlightResult":{
+            "name":{
+               "value":"Standard <em>YouTube</em> Embed Plugin for WordPress",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"EmbedPlus",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1398755713/loboo1gzajpmcdeoa3ps.png",
+         "type":"Product",
+         "url":"/product/increase-youtube-subscribers",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1398755713/loboo1gzajpmcdeoa3ps.png",
+         "batch_indexed_at":1402086316440,
+         "product":true,
+         "description":"Increase YouTube Subscribers was added to CrunchBase in 2013",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1398755713/loboo1gzajpmcdeoa3ps.png",
+         "name":"Increase YouTube Subscribers",
+         "n_relationships":2,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1398755713/loboo1gzajpmcdeoa3ps.png",
+         "organization_name":"Improve Followers on Facebook | Instagram | Twitter",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1398755713/loboo1gzajpmcdeoa3ps.png",
+         "objectID":"f5908bf425372103aa63fc61e0b2824f",
+         "_highlightResult":{
+            "name":{
+               "value":"Increase <em>YouTube</em> Subscribers",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Improve Followers on Facebook | Instagram | Twitter",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1398751585/lzt36wqiblsjgb4zeuyw.png",
+         "type":"Product",
+         "url":"/product/increase-youtube-views",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1398751585/lzt36wqiblsjgb4zeuyw.png",
+         "batch_indexed_at":1402086316460,
+         "product":true,
+         "description":"Increase YouTube Views was added to CrunchBase in 2013",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1398751585/lzt36wqiblsjgb4zeuyw.png",
+         "name":"Increase YouTube Views",
+         "n_relationships":2,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1398751585/lzt36wqiblsjgb4zeuyw.png",
+         "organization_name":"Improve Followers on Facebook | Instagram | Twitter",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1398751585/lzt36wqiblsjgb4zeuyw.png",
+         "objectID":"376a49f2d5ee8e0d462bd62ad25eaf13",
+         "_highlightResult":{
+            "name":{
+               "value":"Increase <em>YouTube</em> Views",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Improve Followers on Facebook | Instagram | Twitter",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1399016031/rlvhiblwkuk6ozc3kh90.png",
+         "type":"Product",
+         "url":"/product/wondershare-free-youtube-downloader-for-mac",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1399016031/rlvhiblwkuk6ozc3kh90.png",
+         "batch_indexed_at":1402086316537,
+         "product":true,
+         "description":"Wondershare Free YouTube Downloader for Mac is a great YouTube downloading tool that helps you to quick search, batch download, and manages",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1399016031/rlvhiblwkuk6ozc3kh90.png",
+         "name":"Wondershare Free YouTube Downloader for mac",
+         "n_relationships":9,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1399016031/rlvhiblwkuk6ozc3kh90.png",
+         "organization_name":"Wondershare Software",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1399016031/rlvhiblwkuk6ozc3kh90.png",
+         "objectID":"f14e9c27be6ac82e30d661991918f088",
+         "_highlightResult":{
+            "name":{
+               "value":"Wondershare Free <em>YouTube</em> Downloader for mac",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Wondershare Software",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1399013722/ab0cxdnsbt2rcmpxihac.png",
+         "type":"Product",
+         "url":"/product/wondershare-free-youtube-downloader",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1399013722/ab0cxdnsbt2rcmpxihac.png",
+         "batch_indexed_at":1402086316536,
+         "product":true,
+         "description":"Wondershare Free YouTube Downloader automatically detects any YouTube video playing on IE, Firefox or Chrome while you surf the web.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1399013722/ab0cxdnsbt2rcmpxihac.png",
+         "name":"Wondershare Free YouTube Downloader",
+         "n_relationships":9,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1399013722/ab0cxdnsbt2rcmpxihac.png",
+         "organization_name":"Wondershare Software",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1399013722/ab0cxdnsbt2rcmpxihac.png",
+         "objectID":"abd98bac87f3d3383b432936d8f1c1c2",
+         "_highlightResult":{
+            "name":{
+               "value":"Wondershare Free <em>YouTube</em> Downloader",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Wondershare Software",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086310581,
+         "description":"Digital Theatre YouTube paid channel was added to CrunchBase in 2013",
+         "name":"Digital Theatre YouTube paid channel",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"Digital Theatre",
+         "url":"/product/digital-theatre-youtube-paid-channel",
+         "objectID":"2e9169e10275de2a18ec004e0f1e4263",
+         "_highlightResult":{
+            "name":{
+               "value":"Digital Theatre <em>YouTube</em> paid channel",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Digital Theatre",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086310468,
+         "description":"Clipster for YouTube was added to CrunchBase in 2013",
+         "name":"Clipster for YouTube",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"Clipster",
+         "url":"/product/clipster-for-youtube",
+         "objectID":"24f4ebbb506686b121e242c137311421",
+         "_highlightResult":{
+            "name":{
+               "value":"Clipster for <em>YouTube</em>",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Clipster",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304191,
+         "description":"WordPress Plugin for Custom YouTube Player Embedding was added to CrunchBase in 2012",
+         "name":"WordPress Plugin for Custom YouTube Player Embedding",
+         "n_relationships":3,
+         "type":"Product",
+         "organization_name":"EmbedPlus",
+         "url":"/product/wordpress-plugin-for-youtube",
+         "objectID":"9367890514005db9e1d027142115db78",
+         "_highlightResult":{
+            "name":{
+               "value":"WordPress Plugin for Custom <em>YouTube</em> Player Embedding",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"EmbedPlus",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      },
+      {
+         "product":true,
+         "batch_indexed_at":1402086304073,
+         "description":"Youtubr! was added to CrunchBase in 2012",
+         "name":"Youtubr!",
+         "n_relationships":1,
+         "type":"Product",
+         "organization_name":"Social Munkee",
+         "url":"/product/youtubr",
+         "objectID":"ae29dc9f56ea366afa265e209aa8761c",
+         "_highlightResult":{
+            "name":{
+               "value":"<em>Youtubr</em>!",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            },
+            "organization_name":{
+               "value":"Social Munkee",
+               "matchLevel":"none",
+               "matchedWords":[
+
+               ]
+            }
+         }
+      }
+   ],
+   "nbHits":26,
+   "page":0,
+   "nbPages":2,
+   "hitsPerPage":20,
+   "processingTimeMS":5,
+   "query":"youtube",
+   "params":"query=youtube&distinct=true&page=0&hitsPerPage=20&facetFilters=type%3AProduct"
+}

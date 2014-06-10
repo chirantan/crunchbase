@@ -1,0 +1,1254 @@
+{
+   "hits":[
+      {
+         "acquired_on":[
+            1162368000259
+         ],
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397180306/587650443da4ac269f1b4702ed1f5b43.png",
+         "location_name":"San Bruno, California, United States",
+         "markets":[
+            "Video",
+            "Online Rental",
+            "Entertainment",
+            "Games"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtube",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397180306/587650443da4ac269f1b4702ed1f5b43.png",
+         "batch_indexed_at":1402086835259,
+         "total_funding":11500000,
+         "funded_on":[
+            1146466800259,
+            1133424000259
+         ],
+         "organization":true,
+         "acquired_for":[
+            1650000000
+         ],
+         "founded_on":1109664000259,
+         "locations":[
+            "151529f04640815f534f99a71c35ef01",
+            "eb879a83c91a121e0bb8829782dbcf04",
+            "f110fca2105599f6996d011c198b3928"
+         ],
+         "description":"YouTube, a video-sharing platform, allows users to upload, view and share videos, including movie and music clips and amateur content.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397180306/587650443da4ac269f1b4702ed1f5b43.png",
+         "name":"YouTube",
+         "n_relationships":893,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397180306/587650443da4ac269f1b4702ed1f5b43.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397180306/587650443da4ac269f1b4702ed1f5b43.png",
+         "roles":[
+            "Company"
+         ],
+         "homepage":"http://www.youtube.com",
+         "objectID":"eef9eab24c50f0a312b8ce721fa2cc81",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Video",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Online Rental",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Entertainment",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTube</em>",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397192690/0127e594a198ba593eb5b10fa59e6069.png",
+         "location_name":"Usa, Kochi, Japan",
+         "markets":[
+            "Search",
+            "Video",
+            "Video Streaming",
+            "Games"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtube-instant",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397192690/0127e594a198ba593eb5b10fa59e6069.png",
+         "batch_indexed_at":1402086786838,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1285916400838,
+         "locations":[
+            "e2781ac6611b376afc7dddec670c3d94",
+            "378ac2b7845492ae04de7faab4ed717f",
+            "7dbfb07d0a7eb0dbabb22f1040e74290"
+         ],
+         "description":"YouTube Instant is a real-time, search-as-you-type service for playing YouTube videos.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397192690/0127e594a198ba593eb5b10fa59e6069.png",
+         "name":"YouTube Instant",
+         "n_relationships":19,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397192690/0127e594a198ba593eb5b10fa59e6069.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397192690/0127e594a198ba593eb5b10fa59e6069.png",
+         "objectID":"caec9f2618a156a293ab7cf3944c9103",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Search",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video Streaming",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTube</em> Instant",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397196490/cf4cedc1428bde3b70c2bda5b5531e6b.jpg",
+         "location_name":"São Paulo, Alagoas, Brazil",
+         "markets":[
+            "Blogging Platforms",
+            "Music",
+            "None"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtubehiphop",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397196490/cf4cedc1428bde3b70c2bda5b5531e6b.jpg",
+         "batch_indexed_at":1402086709364,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1224313200364,
+         "locations":[
+            "f8a963b5dd72cf5241d7819da740ac5e",
+            "8eb58540ecb9b5bbfae53ff82665c717",
+            "55795393eb51ffde26c860dc8501d324"
+         ],
+         "description":"Hiphop news, mp3 & videos, lowrider cars, skate, bboy and more of the underground world.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397196490/cf4cedc1428bde3b70c2bda5b5531e6b.jpg",
+         "name":"Youtubehiphop",
+         "n_relationships":12,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397196490/cf4cedc1428bde3b70c2bda5b5531e6b.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397196490/cf4cedc1428bde3b70c2bda5b5531e6b.jpg",
+         "objectID":"4712c0247891c5b8130227e76a6d2100",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Blogging Platforms",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Music",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"None",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>Youtube</em>hiphop",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "batch_indexed_at":1402086729312,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "markets":[
+            "Payments",
+            "Non Profit",
+            "Video Streaming",
+            "Video",
+            "Social Media"
+         ],
+         "locations":[
+
+         ],
+         "description":"Accept donations for videos",
+         "name":"YouTubeGive",
+         "n_relationships":6,
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtubegive",
+         "objectID":"ea3d25f0dceeda2d8fc507615314673a",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Payments",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Non Profit",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video Streaming",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Social Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTube</em>Give",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397755718/72ff777844c200f4bc0d6f08deaee291.jpg",
+         "location_name":"Noida, Uttar Pradesh, India",
+         "markets":[
+            "Education"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtubevarsity",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397755718/72ff777844c200f4bc0d6f08deaee291.jpg",
+         "batch_indexed_at":1402086695855,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1396335600855,
+         "locations":[
+            "8aafc11851a6cfa1ff1852729f8c82aa",
+            "44048bf7db640d7adb20fd3c1ebf47b0",
+            "448a0a904e45fac0b23a70225bfdde6a"
+         ],
+         "description":"Owned by Green Arrowhead LLP",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397755718/72ff777844c200f4bc0d6f08deaee291.jpg",
+         "name":"youtubevarsity",
+         "n_relationships":6,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397755718/72ff777844c200f4bc0d6f08deaee291.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397755718/72ff777844c200f4bc0d6f08deaee291.jpg",
+         "objectID":"241a6614f5ab168b617473a851150a4e",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Education",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>youtube</em>varsity",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "batch_indexed_at":1402086742718,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1170576000718,
+         "markets":[
+            "Games"
+         ],
+         "locations":[
+
+         ],
+         "description":"youtube video",
+         "name":"youtubeline",
+         "n_relationships":2,
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtubeline",
+         "objectID":"17dc8b92860d1c86d7c6d8bddb4e031e",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>youtube</em>line",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397198155/cbdd876dbd41fdd514da09e551198ac1.png",
+         "location_name":"London, Ealing, United Kingdom",
+         "markets":[
+            "Advertising",
+            "Digital Media",
+            "Video",
+            "Video Streaming"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/buzzmyvideos-youtube-network",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397198155/cbdd876dbd41fdd514da09e551198ac1.png",
+         "batch_indexed_at":1402086729445,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1314860400445,
+         "locations":[
+            "a30e342c17426b1c66e9461de680e54b",
+            "eb33134f4b77ec6587dbf42435ad9339",
+            "d1f5ba4833612ea932f225f348f1cd41"
+         ],
+         "description":"We're Home for Rising Stars of YouTube",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397198155/cbdd876dbd41fdd514da09e551198ac1.png",
+         "name":"BuzzMyVideos YouTube Network",
+         "n_relationships":20,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397198155/cbdd876dbd41fdd514da09e551198ac1.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397198155/cbdd876dbd41fdd514da09e551198ac1.png",
+         "objectID":"3c92cd9f5463e161a7e5f5844d355ba9",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Advertising",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Digital Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Video Streaming",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"BuzzMyVideos <em>YouTube</em> Network",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397181111/e954a29573b8667b5ccdb080270df631.png",
+         "markets":[
+            "Software"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/ytd-youtube-downloader",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397181111/e954a29573b8667b5ccdb080270df631.png",
+         "batch_indexed_at":1402086802192,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "locations":[
+
+         ],
+         "description":"Free software to download YouTube videos",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397181111/e954a29573b8667b5ccdb080270df631.png",
+         "name":"YTD YouTube Downloader",
+         "n_relationships":4,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397181111/e954a29573b8667b5ccdb080270df631.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397181111/e954a29573b8667b5ccdb080270df631.png",
+         "objectID":"d15e11e92c465c6eb944edc49e95282b",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Software",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"YTD <em>YouTube</em> Downloader",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "batch_indexed_at":1402086686625,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1386921600625,
+         "locations":[
+
+         ],
+         "description":"Buy YouTube subscriber provides you the facility to purchase potential subscribers for your business YouTube video.",
+         "name":"Buy YouTube Subscribers",
+         "n_relationships":1,
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/buy-youtube-subscribers",
+         "objectID":"e2deb290cec08e5614f05d4258f4e007",
+         "_highlightResult":{
+            "name":{
+               "value":"Buy <em>YouTube</em> Subscribers",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397196856/dd0f4c60e4d24778da8ba75427cffd00.png",
+         "location_name":"Carson City, Nevada, United States",
+         "markets":[
+            "Colleges",
+            "All Students",
+            "Education",
+            "Startups",
+            "Entrepreneur",
+            "Training",
+            "Curated Web"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtern",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397196856/dd0f4c60e4d24778da8ba75427cffd00.png",
+         "batch_indexed_at":1402086862665,
+         "total_funding":50000,
+         "funded_on":[
+            1265011200665
+         ],
+         "organization":true,
+         "founded_on":1265011200665,
+         "locations":[
+            "d719dfd3b8b25ef3010259882c447442",
+            "f110fca2105599f6996d011c198b3928",
+            "52986cf00e0ff267338f5c09c5b47f65"
+         ],
+         "description":"YouTern offers a searchable database that connects college graduates with mentor-based internships in SMEs, startups, and non-profits.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397196856/dd0f4c60e4d24778da8ba75427cffd00.png",
+         "name":"YouTern",
+         "n_relationships":42,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397196856/dd0f4c60e4d24778da8ba75427cffd00.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397196856/dd0f4c60e4d24778da8ba75427cffd00.png",
+         "objectID":"03afa63f77aa347ff13bf7f40ac01097",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Colleges",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"All Students",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Education",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Startups",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Entrepreneur",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Training",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Curated Web",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTe</em>rn",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397196942/ab0cd9970d2c0645a35b214f614e6dc9.jpg",
+         "location_name":"New York, New York, United States",
+         "markets":[
+            "Health and Wellness"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youbeauty-com",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397196942/ab0cd9970d2c0645a35b214f614e6dc9.jpg",
+         "batch_indexed_at":1402086851122,
+         "total_funding":10325000,
+         "funded_on":[
+            1394092800122,
+            1377846000122
+         ],
+         "organization":true,
+         "founded_on":1290931200122,
+         "locations":[
+            "83ead471332bd02e67b767279aed075b",
+            "d64b7615985cfbf44affaa89d70c4050",
+            "f110fca2105599f6996d011c198b3928"
+         ],
+         "description":"YouBeauty is an advisory platform for women, providing beauty, health, nutrition and psychology-related tips and advice.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397196942/ab0cd9970d2c0645a35b214f614e6dc9.jpg",
+         "name":"YouBeauty",
+         "n_relationships":30,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397196942/ab0cd9970d2c0645a35b214f614e6dc9.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397196942/ab0cd9970d2c0645a35b214f614e6dc9.jpg",
+         "objectID":"01c638cd2d01b7655ee2b6556a8cc169",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Health and Wellness",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouBe</em>auty",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397189870/6b8b07eb7b4bbb9a349745793688120f.png",
+         "location_name":"Coimbrã, Leiria, Portugal",
+         "markets":[
+            "Social Network Media",
+            "Maps",
+            "Curated Web"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youbeq-maps-with-life",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397189870/6b8b07eb7b4bbb9a349745793688120f.png",
+         "batch_indexed_at":1402086709455,
+         "total_funding":0,
+         "funded_on":[
+            1378796400455
+         ],
+         "organization":true,
+         "founded_on":1378796400455,
+         "locations":[
+            "315aab30dbfafa2a8d93e787e9944dd9",
+            "7df02ed402c9a2aead26db77233e4cd3",
+            "dd8f399468fd16b0ef0c88de42fae066"
+         ],
+         "description":"Explore the Earth, meet new people, disc",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397189870/6b8b07eb7b4bbb9a349745793688120f.png",
+         "name":"youbeQ - Maps With Life",
+         "n_relationships":26,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397189870/6b8b07eb7b4bbb9a349745793688120f.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397189870/6b8b07eb7b4bbb9a349745793688120f.png",
+         "objectID":"ec883b9b08ca17f6d6b37aa8d940d4c9",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Social Network Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Maps",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Curated Web",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>yoube</em>Q - Maps With Life",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://res.cloudinary.com/crunchbase-production/image/upload/w_120,h_120,c_pad,g_center/v1397197438/2774ed1b6225437cef389d45bf2168fc.png",
+         "location_name":"San Francisco, California, United States",
+         "markets":[
+            "Social Media",
+            "Consumer Goods",
+            "Games",
+            "Mobile Games",
+            "Gambling"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youbetme",
+         "logo_url_100_100":"http://res.cloudinary.com/crunchbase-production/image/upload/w_100,h_100,c_pad,g_center/v1397197438/2774ed1b6225437cef389d45bf2168fc.png",
+         "batch_indexed_at":1402086871467,
+         "total_funding":2725000,
+         "funded_on":[
+            1375340400467,
+            1393833600467
+         ],
+         "organization":true,
+         "founded_on":1330934400467,
+         "locations":[
+            "eb879a83c91a121e0bb8829782dbcf04",
+            "528f5e3c90d111115d1c2e4ff979d58e",
+            "f110fca2105599f6996d011c198b3928"
+         ],
+         "description":"Youbetme is a peer-to-peer betting platform that allows its users to place and track wagers.",
+         "logo_url_30_30":"http://res.cloudinary.com/crunchbase-production/image/upload/w_30,h_30,c_pad,g_center/v1397197438/2774ed1b6225437cef389d45bf2168fc.png",
+         "name":"Youbetme",
+         "n_relationships":24,
+         "logo_url_60_60":"http://res.cloudinary.com/crunchbase-production/image/upload/w_60,h_60,c_pad,g_center/v1397197438/2774ed1b6225437cef389d45bf2168fc.png",
+         "logo_url":"http://res.cloudinary.com/crunchbase-production/image/upload/v1397197438/2774ed1b6225437cef389d45bf2168fc.png",
+         "roles":[
+            "Company"
+         ],
+         "homepage":"http://www.youbetme.com",
+         "objectID":"bf846b087712a0ce39a6347895a10eac",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Social Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Consumer Goods",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Mobile Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Gambling",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>Yoube</em>tme",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397187843/b4089ac4b9d031102593754479a4b754.png",
+         "location_name":"San Francisco, California, United States",
+         "markets":[
+            "Collaboration",
+            "Software",
+            "Reviews and Recommendations",
+            "Visualization",
+            "Curated Web"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtego",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397187843/b4089ac4b9d031102593754479a4b754.png",
+         "batch_indexed_at":1402086801761,
+         "total_funding":0,
+         "funded_on":[
+            1234339200761,
+            1242457200761,
+            1257840000761
+         ],
+         "organization":true,
+         "founded_on":1252306800761,
+         "locations":[
+            "eb879a83c91a121e0bb8829782dbcf04",
+            "528f5e3c90d111115d1c2e4ff979d58e",
+            "f110fca2105599f6996d011c198b3928"
+         ],
+         "description":"Social Network",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397187843/b4089ac4b9d031102593754479a4b754.png",
+         "name":"Youtego",
+         "n_relationships":21,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397187843/b4089ac4b9d031102593754479a4b754.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397187843/b4089ac4b9d031102593754479a4b754.png",
+         "objectID":"8cd6d410b1c9405ba6713fc6a44857e7",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Collaboration",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Software",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Reviews and Recommendations",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Visualization",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Curated Web",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>Youte</em>go",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397185844/039e75498d1474ad2770b3d79f010694.png",
+         "location_name":"Amsterdam, Noord-Holland, The Netherlands",
+         "markets":[
+            "Startups",
+            "Social Buying",
+            "E-Commerce"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtellme",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397185844/039e75498d1474ad2770b3d79f010694.png",
+         "batch_indexed_at":1402086729104,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1176102000104,
+         "locations":[
+            "6ea93e7d3475b197f3950f8819baf8e2",
+            "4ae9a82d35d9be0cea9d366afba8f8f0",
+            "2d7466f6ddb19f204f028b4b5d283d9f"
+         ],
+         "description":"YouTellMe is a social shopping website in Europe that focuses on product comparison. International launch is scheduled for 2009. YouTellMe",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397185844/039e75498d1474ad2770b3d79f010694.png",
+         "name":"YouTellMe",
+         "n_relationships":21,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397185844/039e75498d1474ad2770b3d79f010694.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397185844/039e75498d1474ad2770b3d79f010694.png",
+         "objectID":"6a42b58a54168e46efe52cd0b9ff6be7",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Startups",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Social Buying",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"E-Commerce",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTe</em>llMe",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397762441/f02f3f845a445480c72d2c70bc9e84a8.jpg",
+         "location_name":"Tel Aviv, Tel Aviv, Israel",
+         "markets":[
+            "Music",
+            "Games"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtab",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397762441/f02f3f845a445480c72d2c70bc9e84a8.jpg",
+         "batch_indexed_at":1402086696312,
+         "total_funding":1000000,
+         "funded_on":[
+            1370070000312
+         ],
+         "organization":true,
+         "locations":[
+            "722877af1334395e4f27e270959395a0",
+            "ab89e1a9013f82613b5f60487350334d",
+            "4f5fab467bca9a1bba1a70368c5337b9"
+         ],
+         "description":"Lyrics and Chords",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397762441/f02f3f845a445480c72d2c70bc9e84a8.jpg",
+         "name":"YouTab",
+         "n_relationships":18,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397762441/f02f3f845a445480c72d2c70bc9e84a8.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397762441/f02f3f845a445480c72d2c70bc9e84a8.jpg",
+         "objectID":"84f976c8f02670561751d8ff43150102",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Music",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Games",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouTab</em>",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "acquired_on":[
+            1260432000272
+         ],
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397194685/de50f17611d6c3f021783334b09bd371.gif",
+         "location_name":"Woodland Hills, California, United States",
+         "markets":[
+            "None"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youbet-com",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397194685/de50f17611d6c3f021783334b09bd371.gif",
+         "batch_indexed_at":1402086871272,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "acquired_for":[
+            126800000
+         ],
+         "founded_on":539164800272,
+         "locations":[
+            "eb879a83c91a121e0bb8829782dbcf04",
+            "59205ff54ae43db091e28f021ecaa4f2",
+            "f110fca2105599f6996d011c198b3928"
+         ],
+         "description":"Advanced Deposit Wagering",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397194685/de50f17611d6c3f021783334b09bd371.gif",
+         "name":"Youbet.com",
+         "n_relationships":17,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397194685/de50f17611d6c3f021783334b09bd371.gif",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397194685/de50f17611d6c3f021783334b09bd371.gif",
+         "objectID":"f82ed639b14da64900413115e32a0c9e",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"None",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>Yoube</em>t.com",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397193527/a1d6199918ea8ca399062936fd807f37.jpg",
+         "location_name":"Thousand Oaks, California, United States",
+         "markets":[
+            "Advertising",
+            "Media",
+            "Social Media",
+            "Coupons",
+            "E-Commerce"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/your-best-deals",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397193527/a1d6199918ea8ca399062936fd807f37.jpg",
+         "batch_indexed_at":1402086835829,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1289808000829,
+         "locations":[
+            "eb879a83c91a121e0bb8829782dbcf04",
+            "f110fca2105599f6996d011c198b3928",
+            "c6dd84190fb71af182c0fc42576ab7f4"
+         ],
+         "description":"Daily deals",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397193527/a1d6199918ea8ca399062936fd807f37.jpg",
+         "name":"YourBestDeals",
+         "n_relationships":17,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397193527/a1d6199918ea8ca399062936fd807f37.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397193527/a1d6199918ea8ca399062936fd807f37.jpg",
+         "objectID":"c0324d2b016c69e731e28b8f315d61a7",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Advertising",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Social Media",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Coupons",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"E-Commerce",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YourBe</em>stDeals",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397181250/d5aad9230bb1a202d453302aaab07221.png",
+         "location_name":"Bellevue, Washington, United States",
+         "markets":[
+            "Sports"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youbeqb",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397181250/d5aad9230bb1a202d453302aaab07221.png",
+         "batch_indexed_at":1402086787306,
+         "total_funding":0,
+         "funded_on":[
+            1180681200306
+         ],
+         "organization":true,
+         "founded_on":1221375600306,
+         "locations":[
+            "16de61784c1e71790417afcd95455952",
+            "f110fca2105599f6996d011c198b3928",
+            "86caa7e091fbce586e4cd58e799dd2bd"
+         ],
+         "description":"YouBeQB is a unique startup that allows fantasy sports fans to get even more involved with both NFL and college football games.",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397181250/d5aad9230bb1a202d453302aaab07221.png",
+         "name":"YouBeQB",
+         "n_relationships":15,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397181250/d5aad9230bb1a202d453302aaab07221.png",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397181250/d5aad9230bb1a202d453302aaab07221.png",
+         "objectID":"2d9aab7af5fc7785be20fc4859268c34",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Sports",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>YouBe</em>QB",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      },
+      {
+         "logo_url_120_120":"http://images.crunchbase.com/image/upload/w_120,h_120,c_pad,g_center/v1397184426/543a9ded52a6129db770a0d21e93117b.jpg",
+         "location_name":"Naperville, Illinois, United States",
+         "markets":[
+            "Web Development",
+            "Advertising"
+         ],
+         "type":"Organization",
+         "primary_role":"company",
+         "url":"/organization/youtech-associates",
+         "logo_url_100_100":"http://images.crunchbase.com/image/upload/w_100,h_100,c_pad,g_center/v1397184426/543a9ded52a6129db770a0d21e93117b.jpg",
+         "batch_indexed_at":1402086722742,
+         "funded_on":[
+
+         ],
+         "organization":true,
+         "founded_on":1343113200742,
+         "locations":[
+            "f110fca2105599f6996d011c198b3928",
+            "e9d5dbb22921eb4d674977cb42bbf790",
+            "24741860f904395b7eda88e5cb9f321c"
+         ],
+         "description":"Creative Advertising Agency",
+         "logo_url_30_30":"http://images.crunchbase.com/image/upload/w_30,h_30,c_pad,g_center/v1397184426/543a9ded52a6129db770a0d21e93117b.jpg",
+         "name":"Youtech & Associates",
+         "n_relationships":14,
+         "logo_url_60_60":"http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397184426/543a9ded52a6129db770a0d21e93117b.jpg",
+         "logo_url":"http://images.crunchbase.com/image/upload/v1397184426/543a9ded52a6129db770a0d21e93117b.jpg",
+         "objectID":"f97909391294e4312f5cf5079c4b8d88",
+         "_highlightResult":{
+            "markets":[
+               {
+                  "value":"Web Development",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               },
+               {
+                  "value":"Advertising",
+                  "matchLevel":"none",
+                  "matchedWords":[
+
+                  ]
+               }
+            ],
+            "name":{
+               "value":"<em>Youte</em>ch & Associates",
+               "matchLevel":"full",
+               "matchedWords":[
+                  "youtube"
+               ]
+            }
+         }
+      }
+   ],
+   "nbHits":56,
+   "page":0,
+   "nbPages":3,
+   "hitsPerPage":20,
+   "processingTimeMS":7,
+   "query":"youtube",
+   "params":"query=youtube&distinct=true&page=0&hitsPerPage=20&facetFilters=type%3AOrganization"
+}

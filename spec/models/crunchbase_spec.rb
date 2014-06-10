@@ -187,6 +187,50 @@ describe CrunchbaseApi do
   end
 
   describe ".search" do
+
+    let(:query) { "youtube" }
+    let(:page) { 1 }
+
+    before do
+      stub_request(
+        :get,
+        "http://search-3.crunchbase.com/1/indexes/main_production/query?order=created_at%20DESC&user_key=27e1c00cb39307567e7cff0615330f89"
+      ).with(:data => {
+        "params" => "query=youtube&distinct=true&page=1&hitsPerPage=20&facetFilters=type%3AProduct",
+        "apiKey" => CrunchbaseApi::SEARCH_API_KEY,
+        "appID"  => CrunchbaseApi::SEARCH_APP_ID
+      }).to_return(
+        :body => File.read("spec/fixtures/files/product_search.json")
+      )
+      stub_request(
+        :get,
+        "http://search-3.crunchbase.com/1/indexes/main_production/query?order=created_at%20DESC&user_key=27e1c00cb39307567e7cff0615330f89"
+      ).with(:data => {
+        "params" => "query=youtube&distinct=true&page=1&hitsPerPage=20&facetFilters=type%3AOrganization",
+        "apiKey" => CrunchbaseApi::SEARCH_API_KEY,
+        "appID"  => CrunchbaseApi::SEARCH_APP_ID
+      }).to_return(
+        :body => File.read("spec/fixtures/files/organization_search.json")
+      )
+      @search_results = CrunchbaseApi.search(query, page)
+    end
+
+    it "should show correct current page" do
+      expect(@search_results[:organization].current_page).to eq(0)
+    end
+
+    it "should show correct total number of pages" do
+      expect(@search_results[:organization].total_pages).to eq(3)
+    end
+
+    it "should show correct total number of results" do
+      expect(@search_results[:organization].total_results).to eq(56)
+    end
+
+    it "should have more pages" do
+      expect(@search_results[:organization]).to have_more_pages
+    end
+
   end
 
 end
