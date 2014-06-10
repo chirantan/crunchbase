@@ -37,7 +37,7 @@ class Search
     end
 
     def image
-      reponse['logo_url_60_60']
+      response['logo_url_60_60']
     end
 
     def name

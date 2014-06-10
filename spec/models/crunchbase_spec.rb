@@ -231,6 +231,24 @@ describe CrunchbaseApi do
       expect(@search_results[:organization]).to have_more_pages
     end
 
+    context "results" do
+      before do
+        @result = @search_results[:organization].results.first
+      end
+
+      it "should have the right name" do
+        expect(@result.name).to eq("YouTube")
+      end
+
+      it "should have the right description" do
+        expect(@result.description).to eq("YouTube, a video-sharing platform, allows users to upload, view and share videos, including movie and music clips and amateur content.")
+      end
+
+      it "should have the right image" do
+        expect(@result.image).to eq("http://images.crunchbase.com/image/upload/w_60,h_60,c_pad,g_center/v1397180306/587650443da4ac269f1b4702ed1f5b43.png")
+      end
+    end
+
   end
 
 end
